@@ -11,4 +11,4 @@ A responsive, real-time currency converter built using **HTML**, **CSS**, and **
 - Built by [Bilal Ahmed](https://github.com/iahmedbilal)
 
 ## 🚀 Live Demo
-(Will add link after hosting)
+https://iahmedbilal.github.io/currency-converter/
